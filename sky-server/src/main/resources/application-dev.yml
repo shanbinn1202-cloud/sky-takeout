@@ -6,3 +6,14 @@ sky:
     database: sky_take_out
     username: root
     password: root
+  alioss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+
+    bucket-name: web-alias23
+  redis:
+    host: localhost
+    port: 6379
+    database: 1
+  wechat:
+    appid: wx8b52f12af7bb19ec
+    secret: f4d6100a48e7545de23c814b0892d3dd
